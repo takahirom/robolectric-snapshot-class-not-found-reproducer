@@ -34,6 +34,8 @@ class ExampleUnitTest {
 
 
 ```
+System.getProperty("java.version"):17.0.7
+System.getProperty("java.home"):../Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-1/231.9392.1.2311.11076708/Android Studio.app/Contents/jbr/Contents/Home
 java.lang.NoClassDefFoundError: java/nio/NioUtils
 	at android.media.ImageReader$SurfaceImage$SurfacePlane.clearBuffer(ImageReader.java:1389)
 	at android.media.ImageReader$SurfaceImage.clearSurfacePlanes(ImageReader.java:1333)
